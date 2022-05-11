@@ -1,5 +1,5 @@
 # mybook
-
+npm -v 6.14.3
 ## Project setup
 ```
 npm install
